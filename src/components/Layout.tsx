@@ -69,7 +69,7 @@ const Layout = ({ children, kioskMode = false }: LayoutProps) => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-8">
               <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
-                AI Answer Evaluator
+                EduScan.ai
               </h1>
               <div className="hidden md:flex space-x-1">
                 {navigation.map((item) => {
